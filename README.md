@@ -108,7 +108,7 @@ I'm an **Electronics & Instrumentation Engineering student at NIT Silchar** who 
 
 <p align="center">
   <img
-    src="./pod-ai-architecture.png"
+    src="./Speech-to-Speech AI Pipeline.png"
     alt="Pod AI Architecture"
     width="100%"
   />
