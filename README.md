@@ -49,11 +49,6 @@ I'm an **Electronics & Instrumentation Engineering student at NIT Silchar** who 
 <br clear="right"/>
 
 ---
-
-
-
-
-
 <!-- ===================== DEVELOPER PHILOSOPHY ===================== -->
 
 <h2 align="center">🧠 My Developer Philosophy</h2>
@@ -101,35 +96,25 @@ I'm an **Electronics & Instrumentation Engineering student at NIT Silchar** who 
 - ⚛️ Connected the backend with a **React frontend**
 - 🏗️ Designed the architecture for future scalability
 
-### 🧩 Architecture
+<h2>🎙️ Pod AI — AI-Powered Interactive Podcast Agent</h2>
 
-```text
-              🎤 User Voice
-                    │
-                    ▼
-             ┌──────────────┐
-             │     STT      │
-             └──────┬───────┘
-                    │
-                    ▼
-          ┌───────────────────┐
-          │   FastAPI Server  │
-          └─────────┬─────────┘
-                    │
-             ┌──────┴──────┐
-             │             │
-             ▼             ▼
-        🧵 AI Queue     ⚡ Redis
-             │
-             ▼
-        🤖 Gemini AI
-             │
-             ▼
-          🔊 TTS
-             │
-             ▼
-        🎧 Audio Response
-```
+<p>
+  An AI-powered interactive podcast system...
+</p>
+
+<!-- your existing Pod AI details -->
+
+<h3 align="center">🧩 Architecture</h3>
+
+<p align="center">
+  <img
+    src="./pod-ai-architecture.png"
+    alt="Pod AI Architecture"
+    width="100%"
+  />
+</p>
+
+<br>
 
 ---
 
