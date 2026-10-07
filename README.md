@@ -383,13 +383,6 @@ I'm currently exploring how to build applications that are not only functional b
 
 ---
 
-# 🐍 Contribution Snake
-
-<div align="center">
-
-![Snake animation](https://raw.githubusercontent.com/Kamalpegu/Kamalpegu/output/github-contribution-grid-snake.svg)
-
-</div>
 
 ---
 
