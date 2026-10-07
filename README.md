@@ -145,6 +145,42 @@ I'm an **Electronics & Instrumentation Engineering student at NIT Silchar** who 
 - 🐍 Python virtual-environment setup
 - 🧠 Architecture prepared for future computer vision
 
+
+<!-- ===================== BLIND NAVIGATOR ===================== -->
+
+<h2 align="center">🧭 Blind Navigator</h2>
+
+<p align="center">
+  <b>Voice-Guided Walking Navigation & Accessibility Assistant</b>
+</p>
+
+<p align="center">
+  <a href="https://pegu141.pythonanywhere.com/" target="_blank">
+    <img src="https://img.shields.io/badge/🚀%20Live%20Demo-Visit%20Application-success?style=for-the-badge" />
+  </a>
+</p>
+
+<p align="center">
+  <img
+    src="./blind-navigator-demo.png"
+    alt="Blind Navigator deployed application screenshot"
+    width="100%"
+  />
+</p>
+
+<p align="center">
+  <i>📍 Deployed application with voice-guided destination search and walking navigation</i>
+</p>
+
+<p align="center">
+  🔗 <b>Live Application:</b>
+  <a href="https://pegu141.pythonanywhere.com/" target="_blank">
+    https://pegu141.pythonanywhere.com/
+  </a>
+</p>
+
+<br>
+
 <!-- ===================== FUTURE VISION ===================== -->
 
 <h3 align="center">🔮 Future Vision</h3>
