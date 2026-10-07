@@ -50,38 +50,27 @@ I'm an **Electronics & Instrumentation Engineering student at NIT Silchar** who 
 
 ---
 
-# 🧠 My Developer Philosophy
 
-```text
-             ┌─────────────────────┐
-             │       IDEA 💡       │
-             └──────────┬──────────┘
-                        │
-                        ▼
-             ┌─────────────────────┐
-             │   DESIGN & BUILD ⚙️ │
-             └──────────┬──────────┘
-                        │
-                        ▼
-             ┌─────────────────────┐
-             │   AI / BACKEND 🤖   │
-             └──────────┬──────────┘
-                        │
-                        ▼
-             ┌─────────────────────┐
-             │  TEST & OPTIMIZE ⚡ │
-             └──────────┬──────────┘
-                        │
-                        ▼
-             ┌─────────────────────┐
-             │    DEPLOY 🚀        │
-             └─────────────────────┘
-```
 
-> **I don't just learn technologies — I try to build something with them.**
 
----
 
+<!-- ===================== DEVELOPER PHILOSOPHY ===================== -->
+
+<h2 align="center">🧠 My Developer Philosophy</h2>
+
+<p align="center">
+  <img
+    src="./developer-philosophy.png"
+    alt="My Developer Philosophy"
+    width="100%"
+  />
+</p>
+
+<p align="center">
+  <i>I don't just learn technologies — I try to build something with them.</i>
+</p>
+
+<br>
 # 🚀 Featured Projects
 
 <div align="center">
