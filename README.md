@@ -335,19 +335,19 @@ I'm currently exploring how to build applications that are not only functional b
 
 ---
 
-# ⚡ Fun Facts
+<!-- ===================== FUN FACTS ===================== -->
 
-```text
-🔧 Electronics & Instrumentation
-            +
-🤖 Artificial Intelligence
-            +
-🐍 Python Backend
-            +
-⚡ Real-Time Systems
-            =
-🚀 Me
-```
+<h2 align="center">⚡ Fun Facts</h2>
+
+<p align="center">
+  <img
+    src="./fun-facts.png"
+    alt="Fun Facts - Electronics, AI, Python Backend and Real-Time Systems"
+    width="100%"
+  />
+</p>
+
+<br>
 
 - 🔌 Electronics student who spends a lot of time building software.
 - 🤖 I enjoy turning AI ideas into actual applications.
