@@ -189,21 +189,19 @@ A deep-learning project focused on detecting pulmonary diseases from medical ima
 - 🌐 API-based inference
 - 🚀 Flask/FastAPI model serving
 
-```text
-Medical Images
-      ↓
-Preprocessing
-      ↓
-Data Augmentation
-      ↓
-CNN / Transfer Learning
-      ↓
-Model Training
-      ↓
-Evaluation
-      ↓
-API Inference
-```
+<!-- ===================== AERODX PIPELINE ===================== -->
+
+<h3 align="center">🫁 ML Pipeline</h3>
+
+<p align="center">
+  <img
+    src="./aero-dx-pipeline.png"
+    alt="AeroDX Medical AI Pipeline"
+    width="100%"
+  />
+</p>
+
+<br>
 
 ---
 
@@ -231,32 +229,7 @@ A Streamlit-based URL security checker using the **VirusTotal API**.
 
 ---
 
-<div align="center">
 
-## 📊 Flipkart Sales Analytics
-
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
-<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
-<img src="https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white"/>
-<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white"/>
-
-</div>
-
-Interactive sales analytics dashboard built to transform raw data into useful business insights.
-
-### 🔥 What I Worked On
-
-- 📥 Data cleaning
-- 🐼 Pandas-based analysis
-- 📊 Exploratory Data Analysis
-- 📈 Interactive Plotly visualizations
-- 🌐 Streamlit dashboard
-- 🔎 Trend and pattern analysis
-
----
-
-<div align="center">
 
 ## 💬 Real-Time Chat Application
 
