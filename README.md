@@ -145,21 +145,20 @@ I'm an **Electronics & Instrumentation Engineering student at NIT Silchar** who 
 - 🐍 Python virtual-environment setup
 - 🧠 Architecture prepared for future computer vision
 
-### 🔮 Future Vision
+<!-- ===================== FUTURE VISION ===================== -->
 
-```text
-📷 Camera
-   ↓
-👁️ Computer Vision
-   ↓
-🚧 Object / Obstacle Detection
-   ↓
-🧠 AI Decision System
-   ↓
-🗺️ Intelligent Navigation
-   ↓
-🎙️ Voice Guidance
-```
+<h3 align="center">🔮 Future Vision</h3>
+
+<p align="center">
+  <img
+    src="./AI-Driven Navigation Pipeline.png"
+    alt="Blind Navigator Future Vision"
+    width="100%"
+  />
+</p>
+
+<br>
+
 
 ---
 
