@@ -195,7 +195,7 @@ A deep-learning project focused on detecting pulmonary diseases from medical ima
 
 <p align="center">
   <img
-    src="./aero-dx-pipeline.png"
+    src="./lungs_image.png"
     alt="AeroDX Medical AI Pipeline"
     width="100%"
   />
