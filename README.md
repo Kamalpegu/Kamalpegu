@@ -341,7 +341,7 @@ I'm currently exploring how to build applications that are not only functional b
 
 <p align="center">
   <img
-    src="./fun-facts.png"
+    src="./me.png"
     alt="Fun Facts - Electronics, AI, Python Backend and Real-Time Systems"
     width="100%"
   />
